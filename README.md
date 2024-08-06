@@ -1,4 +1,4 @@
-# Geekbears E-book
+# Custom Plugin WP E-book
 Custom plugin to create a new post type for books
 
 ## Features 
